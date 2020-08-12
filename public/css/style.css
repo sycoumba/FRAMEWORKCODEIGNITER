@@ -1,0 +1,121 @@
+body{
+	font-family: verdana, arial, sans serif;
+	background-color:#504DC1;
+}
+.main{display: flex;
+	padding:0px;
+        margin:10px;
+        background-color: white;
+
+}
+h1{
+        float: right;
+        color:blueviolet;
+        background-color: white;
+}
+h2{
+      background-color:white;  
+      padding: 20px;
+      margin: 20px;
+      text-align: center;
+      color:blueviolet;
+      border-radius: 75px;
+      width: 80%;
+      left: 30px;
+}
+
+h3{
+        color:white;
+
+}
+legend{
+        color: blueviolet;
+}
+label{
+        color: blueviolet;
+}
+#responsable a{
+        display: inline-block;
+        background-color: white;
+        padding: 20px;
+        margin: 50px;
+        text-decoration: none;
+
+}
+#client_moral{
+        background-color: white;
+        width: 40%;
+        left: 35%;
+        float:45%
+      
+}
+::placeholder{
+        color: blueviolet;
+
+}
+.info1{
+        width: 70%;
+        background-color: white;
+        left: 45%;
+        padding: 20px;
+        margin: 90px;
+}
+p{
+        color:white ;
+}
+#loginresp
+{
+        width: 80px;
+        background-color: white;
+        
+}
+#login{
+        position: relative;
+        left:35%;
+        float: 50%;
+        margin: 30px;
+
+}
+#compte_courant{
+        position: relative;
+        left:35%;
+        float: 50%;
+        margin: 30px;
+        width: 60px;
+        background-color: white;
+}
+#compte_bloque{
+        width: 60px;
+        background-color: white;
+        left:55%;
+        float: 30%;
+        
+}
+#salarie{
+        width: 60px;
+      
+
+}
+#client_salarie{
+        background-color: white;
+        width: 30%;
+}
+#client_non_salarie{
+        background-color: white;
+        width: 30%;
+
+}
+#compte_epargne{
+        background-color: white;
+        width: 30%;
+        left:55%;
+        float: 30%;
+
+
+}
+#valider{
+        background-color:blueviolet ;
+}
+#retour{
+        background-color:blueviolet ;
+}
